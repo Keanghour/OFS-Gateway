@@ -1,7 +1,7 @@
 
-# T24 OFS API
+# OFS Gateway API
 
-A FastAPI service to generate and send **OFS messages** to a T24 core banking system. This API also prevents duplicate transactions using an in-memory cache.
+A FastAPI service to generate and send **OFS messages** to core banking system. This API also prevents duplicate transactions using an in-memory cache.
 
 ## Features
 
